@@ -1,0 +1,19 @@
+[
+    {
+        "cipher": "base",
+        "text": "WBNGWDCJGR",
+        "base": {
+            "bradix": 26,
+            "bpreset": "ml26-upper",
+            "aradix": 16,
+            "apreset": "36-lower",
+            "zero": true
+        }
+    },
+    {
+        "cipher": "textnum",
+        "mode": false,
+        "radix": 16,
+        "encoding": "utf-16be"
+    }
+]
